@@ -1,0 +1,9 @@
+{
+  "name": "arduino-robots",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "johnny-five": "*",
+    "serialport": "*"
+  }
+}
